@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nixon\\OneDrive\\Documentos\\c#\\PracticasWebToken\\Domain\\Domain.csproj": {}
+    "C:\\Users\\user\\Documents\\Nixon\\NikeFullStack\\BackEnd\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nixon\\OneDrive\\Documentos\\c#\\PracticasWebToken\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Documents\\Nixon\\NikeFullStack\\BackEnd\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nixon\\OneDrive\\Documentos\\c#\\PracticasWebToken\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Nixon\\NikeFullStack\\BackEnd\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\nixon\\OneDrive\\Documentos\\c#\\PracticasWebToken\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\nixon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nixon\\OneDrive\\Documentos\\c#\\PracticasWebToken\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\Nixon\\NikeFullStack\\BackEnd\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Nixon\\NikeFullStack\\BackEnd\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nixon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentValidation.AspNetCore": {
               "target": "Package",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

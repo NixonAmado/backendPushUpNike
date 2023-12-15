@@ -24,7 +24,7 @@ class UserConfiguration:IEntityTypeConfiguration<User>
         .IsRequired()
         .HasColumnName("password")
         .HasMaxLength(255);
+        
 
-       
     }
 }

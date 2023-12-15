@@ -6,7 +6,7 @@ using Persistence;
 using Persistencia.Data;
 
 namespace Application.Repository;
-public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
+public class GenericRepository<T> : IGenericRepository<T> where T : class
 {
     private readonly DbAppContext _context;
 
